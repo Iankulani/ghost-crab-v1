@@ -1,2 +1,2 @@
-# ghost-crab-v1.py
+# ghost-crab-v1
 Ghost crab 
