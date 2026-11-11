@@ -1,5 +1,24 @@
 # ghost-crab-v1
 
+[![GitHub stars](https://img.shields.io/github/stars/Iankulani/ghost-crab-v1?style=for-the-badge&logo=github)](https://github.com/Iankulani/ghost-crab-v1/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Iankulani/ghost-crab-v1?style=for-the-badge&logo=github)](https://github.com/Iankulani/ghost-crab-v1/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/Iankulani/ghost-crab-v1?style=for-the-badge&logo=github)](https://github.com/Iankulani/ghost-crab-v1/watchers)
+[![GitHub contributors](https://img.shields.io/github/contributors/Iankulani/ghost-crab-v1?style=for-the-badge&logo=github)](https://github.com/Iankulani/ghost-crab-v1/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Iankulani/ghost-crab-v1?style=for-the-badge&logo=git)](https://github.com/Iankulani/ghost-crab-v1/commits/main)
+[![License](https://img.shields.io/github/license/Iankulani/ghost-crab-v1?style=for-the-badge)](https://github.com/Iankulani/ghost-crab-v1/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Iankulani/ghost-crab-v1)
+[![Docker](https://img.shields.io/badge/Docker-Supported-blue?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Iankulani/ghost-crab-v1)
+[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Supported-blue?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Iankulani/ghost-crab-v1)
+[![Bash](https://img.shields.io/badge/Bash-Scripting-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Iankulani/ghost-crab-v1)
+[![PowerShell](https://img.shields.io/badge/PowerShell-Supported-blue?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/Iankulani/ghost-crab-v1)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Penetration%20Testing-purple?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Iankulani/ghost-crab-v1)
+[![Discord](https://img.shields.io/badge/Discord-Integration-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/Iankulani/ghost-crab-v1)
+[![Telegram](https://img.shields.io/badge/Telegram-Integration-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/Iankulani/ghost-crab-v1)
+[![Slack](https://img.shields.io/badge/Slack-Integration-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://github.com/Iankulani/ghost-crab-v1)
+[![Google Chat](https://img.shields.io/badge/Google%20Chat-Integration-00AC47?style=for-the-badge&logo=googlechat&logoColor=white)](https://github.com/Iankulani/ghost-crab-v1)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployment-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/Iankulani/ghost-crab-v1)
+[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-Pipeline-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/Iankulani/ghost-crab-v1)
+
 Ghost Crab is an advanced cybersecurity and penetration-testing software solution developed by Accurate Cyber Defense. Designed for cybersecurity professionals, ethical hackers, penetration testers, security researchers, and red teams, Ghost Crab provides a centralized platform for conducting authorized security assessments, cybersecurity drills, vulnerability assessments, and controlled attack simulations. Its primary objective is to help organizations identify security weaknesses, evaluate their defensive capabilities, and strengthen their overall cybersecurity infrastructure.
 
 Ghost Crab introduces a multi-platform command execution architecture that enables authorized users to interact with their security-testing environments through Discord, Telegram, Slack, Google Chat, and a dedicated web application. This integration provides flexibility and accessibility, allowing cybersecurity professionals to manage authorized testing operations and monitor assessment activities through their preferred communication platforms.
